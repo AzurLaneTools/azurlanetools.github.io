@@ -4,3 +4,4 @@
 - [CD计算器](https://azurlanetools.github.io/az-cd/)
 - [游戏数据提取(Json格式)](https://github.com/AzurLaneTools/AzurLaneData)
 - [游戏代码提取(Lua格式)](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
+- [舰娘名称还原(反和谐)](https://github.com/AzurLaneTools/uncensor)
